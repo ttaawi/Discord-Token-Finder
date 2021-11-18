@@ -19,7 +19,7 @@ Go to Discord Settings
   Advanced
     Enable Developer Mode
 
-When you right click on an user, the final option is "Copy ID", click it and input it into Tokyo
+When you right click on an user, the final option is "Copy ID", click it and input it into Ttawi
 ```
   
 ## Notes 📝
